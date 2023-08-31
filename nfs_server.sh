@@ -4,7 +4,7 @@
 #NOTE: This will create block storage on the server
 #Please read the script carefully before executing
 #This script may require editing according to your needs
-#Also this script rquires to change client_ip and host_ip placeholder
+#Also this script requires to change client_ip and host_ip placeholder
 #This method does not use encryption
 
 # install updates and nfs-kernel-server
