@@ -29,5 +29,4 @@ sudo touch /nfs/general/test
 ls -l /nfs/general/test
 
 # mounting the remote directory
-sudo bash -c $host_ip:/mnt/volume-nyc3-01/nfs/    /nfs/general   nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
-
+sudo bash -c "echo $host_ip:/mnt/volume-nyc3-01/nfs/    /nfs/general   nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0 >> /etc/fstab"
