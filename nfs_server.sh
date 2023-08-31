@@ -21,8 +21,8 @@ sudo chown nobody:nogroup /mnt/volume-nyc3-01/nfs/
 # configuration file setup for the host server
 echo "enter client_ip: "
 read client_ip
-sudo echo "/mnt/volume-nyc3-01/nfs/	
-"$client_ip"(rw,sync,no_subtree_check)" >> filename.txt
+sudo bash -c "echo /mnt/volume-nyc3-01/nfs/    $client_ip'(rw,sync,no_subtree_check)' >> /etc/exports"
+
 
 # restart nfs-server
 sudo systemctl restart nfs-kernel-server
