@@ -1,6 +1,5 @@
  This readme file includes documentation for both the NFS Server Setup Revert Script and the NFS Client Setup Revert Script:
 
-```markdown
 # NFS Setup Revert Scripts
 
 This repository contains two Bash scripts designed to revert NFS server and client setup changes, respectively. These scripts also include instructions for usage and relevant explanations.
@@ -39,7 +38,7 @@ Before using this script, ensure you have the following prerequisites:
    ```bash
    chmod +x revert-nfs-server-setup.sh
    ```
-
+   
 3. Run the script:
    ```bash
    ./revert-nfs-server-setup.sh
