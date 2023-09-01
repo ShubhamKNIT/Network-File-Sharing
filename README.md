@@ -16,7 +16,7 @@ This documentation will guide you on how to use `sudo` privileges effectively an
 - [Making Bash Scripts Executable](#making-bash-scripts-executable)
 - [Best Practices](#best-practices)
 - [Conclusion](#conclusion)
-- [NFS](#NFS)
+- [Introduction to Network File System (NFS)](#nfs)
 
 ---
 
@@ -69,10 +69,10 @@ Before you can run your own Bash scripts, you need to make them executable. Here
 
 Understanding how to use `sudo` privileges and make Bash scripts executable is valuable for any Unix-based system user. Properly used, these skills can help you manage your system more effectively and automate repetitive tasks. Always exercise caution and follow best practices to ensure a safe and efficient computing experience.
 
-Certainly! Here's a document that introduces users to Network File System (NFS), explaining what it is, how it works, and its common use cases:
 
-##NFS
-# Introduction to Network File System (NFS)
+
+
+## Introduction to Network File System (NFS)
 
 Network File System (NFS) is a distributed file system protocol that allows remote access to files and directories over a network. Developed by Sun Microsystems in the 1980s, NFS is designed to facilitate file sharing and data access between systems, even if they use different operating systems.
 
