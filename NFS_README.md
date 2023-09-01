@@ -1,5 +1,3 @@
-Certainly, here's combined documentation for both the NFS server setup script and the NFS client setup script, with the server setup section first, followed by the client setup section:
-
 # NFS Server and Client Setup Scripts Documentation
 
 ## Table of Contents
@@ -186,5 +184,3 @@ If you encounter issues while using the script, refer to the troubleshooting sec
 This script is provided as-is without any warranty. You may use and modify it for your own purposes, but use it responsibly and ensure that it aligns with your system's security requirements and policies.
 
 ---
-
-Feel free to customize this combined documentation further to include additional details, explanations, or specific instructions tailored to your environment and requirements. The documentation is designed to help users understand and use both the NFS server and client setup scripts effectively.
