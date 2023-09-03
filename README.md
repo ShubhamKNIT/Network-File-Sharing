@@ -17,6 +17,7 @@ This documentation will guide you on how to use `sudo` privileges effectively an
 - [Best Practices](#best-practices)
 - [Conclusion](#conclusion)
 - [Introduction to Network File System (NFS)](#introduction-to-network-file-system-nfs)
+- [License](#license)
 
 
 
@@ -111,3 +112,7 @@ NFS has evolved over the years, with different versions offering various feature
 ## Conclusion
 
 Network File System (NFS) is a powerful and widely adopted file sharing protocol that enables efficient and secure data sharing across networks. It simplifies data management, facilitates collaboration, and enhances data availability in various computing environments. Whether you're working in a small home network or a large enterprise setting, understanding NFS can be valuable for efficient file sharing and data access.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
